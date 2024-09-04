@@ -15,10 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on enhancing web application performance using the MERN stack and exploring new technologies like serverless architecture to improve scalability.
+🌱 I’m currently learning advanced GraphQL techniques and exploring the potential of AI integrations in web applications.
+👯 I’m looking to collaborate on open-source projects that focus on educational technology or data visualization.
+🤔 I’m looking for help with optimizing CI/CD pipelines for faster deployment and better integration with cloud services.
+💬 Ask me about full-stack development, performance optimization, or creating interactive data visualizations with D3.js and Chart.js.
+📫 How to reach me: Feel free to email me or connect on LinkedIn.
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy exploring new hiking trails and capturing landscape photography in my free time!
 
+
+
+<!--
 # 💫 About Me:
 I'm a passionate Full Stack Developer with over 5 years of experience in crafting scalable and responsive web applications using the MERN stack. Based in Scarborough, Ontario, I thrive on creating clean, maintainable code and user-centric designs. I am proficient in front-end and back-end technologies, with a strong emphasis on performance optimization and seamless integrations.<br><br>🛠️ Technical Skills<br>Front-End: HTML5, CSS3, React.js, Next.js, AngularJS, JavaScript, TypeScript<br>Back-End: Node.js, Express.js, GraphQL, RESTful APIs, Microservices<br>Databases: PostgreSQL, MongoDB, SQL<br>Data Visualization: D3.js, Chart.js<br>Tools & Platforms: Git, GitHub, Jenkins, Docker, Splunk, Confluence, Fortify, Webpack<br>CI/CD: Jenkins, Docker<br>Methodologies: Agile, Scrum, Test-Driven Development (TDD)<br>💼 Professional Experience<br>Senior Software Engineer at Wipro Technologies Pvt. Ltd (Dec 2021 - Jan 2023)<br>Enhanced user experience by 30% through scalable web applications using React.js, Node.js, and GraphQL.<br>Reduced response times by 25% through the design and implementation of RESTful APIs and microservices.<br>Decreased load times by 15% by optimizing MongoDB queries and performance.<br>Increased user engagement with interactive data visualizations using D3.js.<br>Software Developer at Pyramid Consulting Inc. (Apr 2021 - Dec 2021)<br>Led the development of web applications using the MERN stack, ensuring timely delivery with high quality.<br>Enhanced system modularity and scalability by developing and integrating microservices and RESTful APIs.<br>Improved data visualization with interactive dashboards using Chart.js.<br>Software Development Engineer at Telebu Communications LLP (Mar 2020 – May 2020)<br>Developed SPAs using React.js and TypeScript, improving user interface and experience.<br>Worked on backend services with Node.js and MongoDB, ensuring efficient data operations.<br>Software Team Leader at Study Monitor Pvt Ltd (Nov 2016 – Jan 2020)<br>Led development of educational web applications using AngularJS and Node.js.<br>Improved system functionality by 15% with the implementation of RESTful services.<br>🎓 Education<br>Master of Engineering in Inter-networking, Dalhousie University, 2024<br>📜 Certifications<br>Software Engineer Certificate<br>Front-end Developer (React) Certificate<br>JavaScript (Intermediate) Certificate
-
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyol-pande) 
@@ -37,6 +48,6 @@ I'm a passionate Full Stack Developer with over 5 years of experience in craftin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyolp&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=priyolp&icon=0&color=0)](https://visitcount.itsvg.in)    
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
