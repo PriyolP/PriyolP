@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on enhancing web application performance using the MERN stack and exploring new technologies like serverless architecture to improve scalability.
-🌱 I’m currently learning advanced GraphQL techniques and exploring the potential of AI integrations in web applications.
-👯 I’m looking to collaborate on open-source projects that focus on educational technology or data visualization.
-🤔 I’m looking for help with optimizing CI/CD pipelines for faster deployment and better integration with cloud services.
-💬 Ask me about full-stack development, performance optimization, or creating interactive data visualizations with D3.js and Chart.js.
-📫 How to reach me: Feel free to email me or connect on LinkedIn.
-😄 Pronouns: He/Him
+🔭 I’m currently working on enhancing web application performance using the MERN stack and exploring new technologies like serverless architecture to improve scalability.<br>
+🌱 I’m currently learning advanced GraphQL techniques and exploring the potential of AI integrations in web applications.<br>
+👯 I’m looking to collaborate on open-source projects that focus on educational technology or data visualization.<br>
+🤔 I’m looking for help with optimizing CI/CD pipelines for faster deployment and better integration with cloud services.<br>
+💬 Ask me about full-stack development, performance optimization, or creating interactive data visualizations with D3.js and Chart.js.<br>
+📫 How to reach me: Feel free to email me or connect on LinkedIn.<br>
+😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I enjoy exploring new hiking trails and capturing landscape photography in my free time!
 
 
